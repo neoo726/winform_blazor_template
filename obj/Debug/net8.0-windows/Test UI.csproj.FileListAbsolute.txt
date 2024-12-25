@@ -1,0 +1,58 @@
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Test UI.staticwebassets.runtime.json
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Test UI.exe
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Test UI.deps.json
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Test UI.runtimeconfig.json
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Test UI.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Test UI.pdb
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Authorization.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.WebView.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Components.WebView.WindowsForms.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.AspNetCore.Metadata.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.JSInterop.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test UI.csproj.AssemblyReference.cache
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test_UI.Form1.resources
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test UI.csproj.GenerateResource.cache
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test UI.AssemblyInfoInputs.cache
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test UI.AssemblyInfo.cs
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test UI.csproj.CoreCompileInputs.cache
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\staticwebassets.build.json
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\staticwebassets.development.json
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\staticwebassets\msbuild.Test UI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\staticwebassets\msbuild.build.Test UI.props
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\staticwebassets\msbuild.buildMultiTargeting.Test UI.props
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\staticwebassets\msbuild.buildTransitive.Test UI.props
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\staticwebassets.pack.json
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\scopedcss\bundle\Test UI.styles.css
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test UI.csproj.Up2Date
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test UI.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\refint\Test UI.dll
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test UI.pdb
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\Test UI.genruntimeconfig.cache
+C:\Users\cyber_neo\Downloads\Test-UI-master\Test-UI-master\obj\Debug\net8.0-windows\ref\Test UI.dll
